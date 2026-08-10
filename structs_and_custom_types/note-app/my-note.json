@@ -1,0 +1,70 @@
+{
+ "notes": [
+  {
+   "id": 1,
+   "name": "what a note",
+   "text": "first-note",
+   "created_at": "2026-07-12T17:42:19.100082+02:00"
+  },
+  {
+   "id": 2,
+   "name": "what a note",
+   "text": "first-note",
+   "created_at": "2026-07-12T17:44:08.826837+02:00"
+  },
+  {
+   "id": 3,
+   "name": "this",
+   "text": "second",
+   "created_at": "2026-07-14T08:15:25.79911+02:00"
+  },
+  {
+   "id": 4,
+   "name": "third",
+   "text": "this",
+   "created_at": "2026-07-14T08:18:08.665201+02:00"
+  },
+  {
+   "id": 5,
+   "name": "Fourth",
+   "text": "this",
+   "created_at": "2026-07-14T08:20:07.308497+02:00"
+  },
+  {
+   "id": 6,
+   "name": "fifth",
+   "text": "this",
+   "created_at": "2026-07-14T09:10:05.729045+02:00"
+  },
+  {
+   "id": 7,
+   "name": "sisxth",
+   "text": "this",
+   "created_at": "2026-07-14T09:10:59.166083+02:00"
+  },
+  {
+   "id": 8,
+   "name": "seventh note\n",
+   "text": "this is the seventh\n",
+   "created_at": "2026-07-14T09:17:26.691548+02:00"
+  },
+  {
+   "id": 9,
+   "name": "eight",
+   "text": "this is the eight",
+   "created_at": "2026-07-14T09:18:49.087705+02:00"
+  },
+  {
+   "id": 10,
+   "name": "ninth",
+   "text": "this is the ninth one\nwith a new line",
+   "created_at": "2026-07-14T09:29:35.12935+02:00"
+  },
+  {
+   "id": 11,
+   "name": "tenth",
+   "text": "this is the tenth note\nthis also has a new line",
+   "created_at": "2026-07-14T10:27:34.54497+02:00"
+  }
+ ]
+}
